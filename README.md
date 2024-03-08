@@ -37,7 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivasangeeth12&show_icons=true&locale=en&layout=compact" alt="sivasangeeth12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasangeeth12&show_icons=true&locale=en" alt="sivasangeeth12" /></p>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sivasangeeth?theme=forest&font=Roboto)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasangeeth12&show_icons=true&locale=en" alt="sivasangeeth12" /></p>
